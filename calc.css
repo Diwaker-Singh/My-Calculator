@@ -1,0 +1,37 @@
+
+
+body{
+	background-image: url('https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Falejandrocremades%2Ffiles%2F2018%2F12%2Fbusiness-3605367_1920-1200x741.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed; 
+	background-size: 100% 100%;	
+	font-weight: bold;
+	font-size: 26px;
+}
+
+h1{
+	background-color: lightgrey;
+	height: 60px;
+}
+
+#full{
+	border: 5px solid #000000;
+    background-color: #f7e994;
+    border-radius: 20px;
+    width:200px;
+    margin-left: 42%;
+    font-size: 50px;
+    size: 200%;
+}
+.button{
+	border: 2px solid #000000;
+	background-color: #4CAF50; /* Green */
+    border-radius: 10px;
+	color: white;
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	display: inline-block;
+	font-size: 16px;
+}
